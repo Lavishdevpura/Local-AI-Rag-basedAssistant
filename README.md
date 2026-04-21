@@ -154,9 +154,9 @@ Open: http://localhost:8000
 
 | Query                 | Tool Used             |
 | --------------------- | --------------------- |
-| Weather in Jaipur     | weather_tool          |
+| Weather in Jaipur     | weather_tool(Only for India'n cities)          |
 | Latest news           | news_tool             |
-| Kohli test stats      | sports_knowledge_tool |
+| Who has scored the most goals football history      | sports_knowledge_tool |
 | Apple stock price     | stocks_tool           |
 | Bitcoin price         | crypto_tool           |
 | Upload file to GitHub | github_tool           |
