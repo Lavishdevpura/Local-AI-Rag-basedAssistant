@@ -208,3 +208,5 @@ __marimo__/
 chroma_db/
 vector_store/
 data/
+.DS_Store
+**/.DS_Store
