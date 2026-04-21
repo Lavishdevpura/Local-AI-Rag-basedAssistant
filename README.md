@@ -34,14 +34,6 @@ Unlike basic chatbots, this system dynamically selects tools (APIs, system comma
   <img src="assets/internet_search_tool.png" width="800"/>
 </p>
 
-### UI Preview
-
-![UI Screenshot](assets/ui.png)
-
-### Example Interaction
-
-![Demo GIF](assets/demo.gif)
-
 ---
 
 ## ✨ Key Features
